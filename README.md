@@ -1,4 +1,7 @@
-# Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs
+# Graph of Records
+
+
+Official implementation of the ACL'25 Main Conference Paper: Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs
 
 
 <p align="center">
@@ -43,6 +46,8 @@
 
 
 ## News
+
+**[2025.05.16]** 🎉 **GoR was accepted by ACL 2025 Main**.
 
 **[2024.10.16]** 🌟 GoR is released.
 
